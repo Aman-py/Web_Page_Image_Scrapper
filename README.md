@@ -17,8 +17,7 @@ Web Page Image Scrapper Is An Python Script Which Is Used To Scrap Image From An
 Type the following commands in your terminal:
 ```
 cd path/to/directory/
-git clone https://github.com/Aman-py/Self_Driving_Car
-cd Web_Page_Image_Scrapper/```
-
+git clone https://github.com/Aman-py/Web_Page_Image_Scrapper
+cd Web_Page_Image_Scrapper/
 python web_page_scrapper.py
 Input Your Link: .....```
